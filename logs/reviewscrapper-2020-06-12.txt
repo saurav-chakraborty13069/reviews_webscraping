@@ -1,0 +1,17 @@
+2020-06-12/16:27:49		Getting the searchString
+2020-06-12/16:27:49		received the searchString oneplus
+2020-06-12/16:27:49		connecting to mongo server
+2020-06-12/16:27:49		connecting to db
+2020-06-12/16:27:49		creating/retrieving collection oneplus
+2020-06-12/16:27:49		callign scrape function
+2020-06-12/16:27:49		received flipkart link
+2020-06-12/16:27:51		Parsed html
+2020-06-12/16:27:51		Received product link
+2020-06-12/16:27:55		parsed product html
+2020-06-12/16:27:55		Start of getting tag details
+2020-06-12/16:27:55		Exception occurred: 'NoneType' object has no attribute 'div'
+2020-06-12/16:27:55		End of getting tag details
+2020-06-12/16:27:55		returning reviews
+2020-06-12/16:27:55		creating dataframe and writing to CSV file
+2020-06-12/16:27:55		Exception occurred while moving csv file: Destination path 'CSV Files/delllaptops.csv' already exists
+2020-06-12/16:27:55		inserting into collection oneplus

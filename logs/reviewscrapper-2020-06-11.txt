@@ -1,0 +1,27 @@
+2020-06-11/11:16:23		Getting the searchString
+2020-06-11/11:16:23		received the searchString vivo
+2020-06-11/11:16:23		connecting to mongo server
+2020-06-11/11:16:23		connecting to db
+2020-06-11/11:16:23		creating collection vivo
+2020-06-11/11:16:23		callign scrape function
+2020-06-11/11:16:23		received flipkart link
+2020-06-11/11:16:25		Parsed html
+2020-06-11/11:16:25		Received product link
+2020-06-11/11:16:26		parsed product html
+2020-06-11/11:16:26		Start of getting tag details
+2020-06-11/11:16:26		End of getting tag details
+2020-06-11/11:16:26		returning reviews
+2020-06-11/11:16:26		creating dataframe and writing to CSV file
+2020-06-11/11:16:26		inserting into collection vivo
+2020-06-11/11:16:49		Getting the searchString
+2020-06-11/11:16:49		received the searchString delllaptops
+2020-06-11/11:16:49		connecting to mongo server
+2020-06-11/11:16:49		connecting to db
+2020-06-11/11:16:49		creating collection delllaptops
+2020-06-11/11:16:49		showing results from db
+2020-06-11/11:26:52		Getting the searchString
+2020-06-11/11:26:52		received the searchString delllaptops
+2020-06-11/11:26:52		connecting to mongo server
+2020-06-11/11:26:52		connecting to db
+2020-06-11/11:26:52		creating/retrieving collection delllaptops
+2020-06-11/11:26:52		showing results from db
